@@ -1,0 +1,27 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\bin\Debug\MyOptic.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\bin\Debug\MyOptic.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\bin\Debug\MyOptic.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\bin\Debug\Guna.UI2.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.forms.frmLogin.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.forms.frmMenu.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.forms.frmClients.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.forms.frmListeClients.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.forms.frmCollections.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.forms.frmDetail.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.forms.frmListeLivreurs.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.forms.frmListeLunettes.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.forms.frmLivreurs.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.forms.frmLunettes.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\MyOptic\MyOptic\obj\Debug\MyOptic.forms.frmPromotion.resources
+D:\MyOptic\MyOptic\bin\Debug\MyOptic.exe.config
+D:\MyOptic\MyOptic\obj\Debug\MyOptic.exe
+D:\MyOptic\MyOptic\obj\Debug\MyOptic.pdb
+F:\MyOptic\MyOptic\bin\Debug\MyOptic.exe.config
+F:\MyOptic\MyOptic\obj\Debug\MyOptic.exe
+F:\MyOptic\MyOptic\obj\Debug\MyOptic.pdb
